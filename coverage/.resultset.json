@@ -8,7 +8,7 @@
         null,
         7,
         null,
-        33,
+        32,
         1,
         1,
         1,
@@ -89,6 +89,11 @@
       "/Users/joshuatatterton/Projects/MakersAcademy/airport_challenge/lib/airport.rb": [
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        null,
         1,
         null,
         1,
@@ -101,7 +106,6 @@
         1,
         null,
         1,
-        17,
         17,
         16,
         15,
@@ -109,7 +113,6 @@
         null,
         null,
         1,
-        4,
         4,
         3,
         2,
@@ -118,15 +121,9 @@
         null,
         null,
         1,
+        null,
+        1,
         16,
-        null,
-        null,
-        1,
-        null,
-        1,
-        14,
-        null,
-        null,
         null,
         null,
         null
@@ -152,6 +149,15 @@
         null,
         1,
         1,
+        null,
+        null,
+        null
+      ],
+      "/Users/joshuatatterton/Projects/MakersAcademy/airport_challenge/lib/weather.rb": [
+        1,
+        null,
+        1,
+        14,
         null,
         null,
         null
@@ -187,6 +193,6 @@
         null
       ]
     },
-    "timestamp": 1442495437
+    "timestamp": 1442495990
   }
 }
